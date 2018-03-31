@@ -12,5 +12,6 @@ permalink: /projects/
 - Exercise analysis and visualization (Python etc.) [github](https://github.com/tkettu/exercise-analysis)
 
 ## Practice
-- Java REST
+- Java REST (Jersey-Framework)
+- Python REST (Flask)
 - Machine learning with Python
